@@ -33,7 +33,7 @@
 
 .hero-overlay {
     position: relative;
-    background-image: url('../assets/masjid.jpg');
+    background-image: url('./assets/masjid.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -55,4 +55,3 @@
     position: relative;
     z-index: 2;
 }
-
